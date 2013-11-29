@@ -9,6 +9,6 @@ hello <- function(myname = ""){
     stop("Tell me yong!")
   }
   list(
-    message = paste("hello", myname, "!")
+    message = paste("hello", myname, "start playing!")
   )
 }
